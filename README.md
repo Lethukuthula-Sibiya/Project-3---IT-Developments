@@ -44,6 +44,11 @@ https://portal.azure.com/#@nwuac.onmicrosoft.com/resource/subscriptions/d9813255
 
 ---
 
+# URL to my Kanban Project
+https://github.com/users/Smindlo04/projects/2
+
+---
+
 # Reference List
 - Smith, J. (2023). Introduction to programming: A beginner's guide. New York: Wiley.
 - Microsoft. (2024). ASP.NET Core documentation. [Online] Available at:
