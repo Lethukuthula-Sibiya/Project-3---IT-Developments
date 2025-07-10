@@ -53,7 +53,7 @@ https://github.com/users/Smindlo04/projects/2
 - Smith, J. (2023). Introduction to programming: A beginner's guide. New York: Wiley.
 - Microsoft. (2024). ASP.NET Core documentation. [Online] Available at:
 https://docs.microsoft.com/en-us/aspnet/core/ [Accessed 19 August 2024].
- - CMPG323 - IT Developments. (2023). ***6 September CMPG323 weekly virtual class Patterns demo***. YouTube. Available at: [https://www.youtube.com/watch?v=_5iD4efyeE8]
+ - IT Developments. (2023). ***6 September CMPG323 weekly virtual class Patterns demo***. YouTube. Available at: [https://www.youtube.com/watch?v=_5iD4efyeE8]
 
 
 
