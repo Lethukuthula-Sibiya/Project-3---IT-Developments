@@ -1,6 +1,6 @@
 # IT Developments - Project 3
 
-### Welcome to my CMPG323 module project 3! This repository contains a brief overview of the project.
+### Welcome to my IT Developments project 3! This repository contains a brief overview of the project.
 
 ---
 
